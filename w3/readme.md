@@ -1,3 +1,3 @@
-i statreted with my megeman file from last week for a base. the first thing i changed was the shot.
-by creating a new varialbe for the shots x position (lemx) and adding a ++ stament to the variable i was able to have the shot move rathe
-than teleport, defining the variable outside of the draw function keeps it fro getting locked in place. by leaving the mouse released variable the same as before it ensures that the shot returns to its start position.
+this project consist of 8 identical elipses with that start in the center of the page. the x and y positions are set to variables to allow for movement. the movement of the ellipses are only tracked when the mouse is pressed. if the mouse is not press the ellipses will make thier way back to the center. once the ellipses pass the center their direction will reverse.
+
+the only issue i had with this assignment came from the else statment but was easy to fix by adjusting the brackets.
