@@ -1,3 +1,3 @@
-started with the megaman file from wk 2 as a base. added a clas of strctures called bricks to form a wall. when the megaman shots the wall the bricks are destroyed.
+started with the megaman file from wk 2 as a base. added a class of strctures called bricks to form a wall. when the megaman shots the wall the bricks are destroyed. this is why a class structure was used as a forloop of rect shapes would be deleted all at once by a single shot. added an if statment so megaman could only follow the mouse to a certian point on the screen so he couldnt go through the wall. the lemon shots behavior was vastly change so it better maps to megeman as well as fires in a clean smooth line rather then telporting from point a to b.
 
 this project almost killed me!!!!! :)
