@@ -1,1 +1,1 @@
-for the final ill be doing a mageman based endless/semi-endless runner. the final resul should be something similar to slashy souls but with a megaman theem.
+for the final ill be doing a mageman based endless/semi-endless runner. the final resul should be something similar to slashy souls but with a megaman theme.(https://play.google.com/store/apps/details?id=com.bandainamcoent.android.slashysouls&hl=en)
