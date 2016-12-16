@@ -4,5 +4,5 @@ there will need to be [sprites](http://ngamer01.chozosanctuary.com/rc/sprites/fi
  horizontal move ment will be achived through a visual trick and megaman will stay in position as the screem move around him. space nbar will be shoot and up arrow key will be jump.
 
 
-
-[this is how close i came](https://github.com/SN0WH0USE/SN0WH0USE.github.io/blob/master/final/Gustafson_Kyle_final.pdf)
+this is how close i came
+[read](https://github.com/SN0WH0USE/SN0WH0USE.github.io/blob/master/final/Gustafson_Kyle_final.pdf)
