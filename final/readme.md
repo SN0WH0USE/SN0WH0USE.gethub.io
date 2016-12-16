@@ -2,3 +2,7 @@ for the final ill be doing a mageman based endless/semi-endless runner. the fina
 
 there will need to be [sprites](http://ngamer01.chozosanctuary.com/rc/sprites/files/wataresistant_8_mmexp.png) for jumps runnining and damage as well as each enemy and shots. if staments will be need for coliders as well as jump arches and damage calculations.
  horizontal move ment will be achived through a visual trick and megaman will stay in position as the screem move around him. space nbar will be shoot and up arrow key will be jump.
+
+
+
+[this is how close i came]
