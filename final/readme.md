@@ -6,4 +6,4 @@ there will need to be [sprites](http://ngamer01.chozosanctuary.com/rc/sprites/fi
 
 this is how close i came
 [read](https://github.com/SN0WH0USE/SN0WH0USE.github.io/blob/master/final/Gustafson_Kyle_final.pdf)
-[see]
+[see](https://github.com/SN0WH0USE/SN0WH0USE.github.io/blob/master/final/ScreenCaptureProject1.mkv)
